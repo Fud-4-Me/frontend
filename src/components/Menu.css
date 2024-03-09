@@ -1,0 +1,80 @@
+.Recommended{
+    font-family: Poppins;
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
+
+.Container{
+    background-color: white;
+    height: 100px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    margin-bottom: 25px;
+}
+
+.Fooditems{
+    font-family: Poppins;
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.parent{
+  margin: 1rem;
+  padding: 2rem 2rem;
+}
+
+.contents{
+    background-color: #23256f;
+    min-height: 100vh;
+}
+
+.leftAddButton{
+    position: absolute;
+    margin-left: 3px !important;
+    margin-top: calc(33px - 7.5px) !important;
+    font-size: 10px;
+    background-color: white;
+    color: grey !important;
+    border-radius: 50%;
+    border: 1px solid grey;
+    font-weight: bolder;
+}
+
+.rightAddButton{
+    position: absolute;
+    margin-left: calc(355px - 7.5px) !important;
+    margin-top: calc(33px - 7.5px) !important;
+    font-size: 10px;
+    background-color: white;
+    color: grey !important;
+    border-radius: 50%;
+    border: 1px solid grey;
+    font-weight: bolder;
+}
+
+.menuImg{
+    height: 70px;
+    width: 70px;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+
+.menuText{
+    color: black !important;
+    font-weight: bolder;
+    margin-left: 130px;
+    margin-top: -70px !important;
+}
+
+.menuSpan{
+    font-weight: lighter !important;
+    color: black !important;
+}

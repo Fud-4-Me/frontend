@@ -1,0 +1,229 @@
+.Recommended{
+    font-family: Poppins;
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
+
+.CartText{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 40px;
+}
+
+.Container{
+    background-color: white;
+    height: 100px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    margin-bottom: 25px;
+}
+
+.Container-w-100{
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    margin-bottom: 25px;
+}
+
+.Container-0-pad-w-100{
+    background-color: white;
+    width: 100%;
+    border-radius: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Fooditems{
+    font-family: Poppins;
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.parent{
+  margin: 1rem;
+  padding: 2rem 2rem;
+}
+
+.new-parent{
+    margin: 3rem;
+    padding: 2rem 2rem;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+
+.contents{
+    background-color: #23256f;
+    min-height: 100vh;
+}
+
+.leftAddButton{
+    position: absolute;
+    margin-left: 3px !important;
+    margin-top: calc(33px - 7.5px) !important;
+    font-size: 10px;
+    background-color: white;
+    color: grey !important;
+    border-radius: 50%;
+    border: 1px solid grey;
+    font-weight: bolder;
+}
+
+.rightAddButton{
+    position: absolute;
+    margin-left: calc(355px - 7.5px) !important;
+    margin-top: calc(33px - 7.5px) !important;
+    font-size: 10px;
+    background-color: white;
+    color: grey !important;
+    border-radius: 50%;
+    border: 1px solid grey;
+    font-weight: bolder;
+}
+
+.menuImg{
+    height: 70px;
+    width: 70px;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+
+.menuText{
+    color: black !important;
+    font-weight: bolder;
+    margin-left: 130px;
+    margin-top: -70px !important;
+}
+
+.menuTextCenter{
+    color: black !important;
+    font-weight: bolder;
+    margin-left: calc(50% - 20px);
+    margin-top: -70px !important;
+}
+
+.menuTextEnd{
+    color: black !important;
+    font-weight: bolder;
+    margin-left: calc(95% - 20px);
+    margin-top: -40px !important;
+}
+
+.menuHeadText{
+    font-size: 1.5rem;
+    color: black !important;
+    font-weight: bolder;
+    margin-left: 60px;
+}
+
+.menuHeadTextCenter{
+    font-size: 1.5rem;
+    color: black !important;
+    font-weight: bolder;
+    margin-left: calc(50% - 30px);
+    margin-top: -50px !important;
+}
+
+.menuHeadTextEnd{
+    font-size: 1.5rem;
+    color: black !important;
+    font-weight: bolder;
+    margin-left: calc(95% - 30px);
+    margin-top: -55px !important;
+}
+
+.menuSpan{
+    font-weight: lighter !important;
+    color: black !important;
+}
+
+.grand-total{
+    font-size: 1.2rem;
+    color: #fff !important;
+    font-weight: medium;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    text-align: right;
+}
+
+.new-grand-total{
+    font-size: 1.7rem;
+    color: #fff !important;
+    font-weight: medium;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    text-align: center;
+}
+
+.fud4me-button{
+    text-align: center;
+    background-color: #23256E;
+    border: 4px solid #6366F1;
+    color: #F2F2F2;
+    border-radius: 30px;
+    padding: 10px 0px 10px 0px;
+    width: 250px;
+    margin-left: calc(50% - 125px);
+    margin-bottom: 30px;
+}
+
+.fud4me-button:hover{
+    background-color: #1d1f5b;
+}
+
+.fud4me-button-new{
+    text-align: center;
+    background-color: #23256E;
+    border: 4px solid #6366F1;
+    color: #F2F2F2;
+    border-radius: 30px;
+    padding: 10px 0px 10px 0px;
+    width: 250px;
+    margin-bottom: 30px;
+}
+
+.fud4me-button-new:hover{
+    background-color: #1d1f5b;
+}
+
+.black{
+    color: #000 !important;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.img-center-small{
+    width: 250px;
+    height: auto;
+    margin-left: calc(50% - 125px);
+}
+
+.pay-img-div{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.small-txt{
+    font-size: 15px;
+}
+
+.mar-less{
+    margin-top: -10px;
+}

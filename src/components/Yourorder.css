@@ -1,0 +1,85 @@
+.contents{
+    background-color: #23256f;
+}
+
+.orders{
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 40px;
+}
+
+.orders-load{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.orderbox{
+    background-color: white;
+    border-radius: 30px;
+    height: 100px;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.orderbox:checked{
+    height: 150px;
+}
+
+.details{
+    color: black !important;
+}
+
+.menuTextCenterNew{
+    color: black !important;
+    font-weight: bolder;
+    margin-left: calc(50% - 150px);
+    margin-top: -70px !important;
+    position: absolute;
+    padding: 5px 10px;
+}
+
+.status-preparing{
+    color: #fff !important;
+    border-radius: 5px;
+    background-color: royalblue;
+}
+
+.status-created{
+    color: #fff !important;
+    border-radius: 5px;
+    background-color: rgb(255, 68, 0);
+}
+
+.status-ready{
+    color: #fff !important;
+    border-radius: 5px;
+    background-color: rgb(57, 57, 57);
+}
+
+.status-delivered{
+    color: #fff !important;
+    border-radius: 5px;
+    background-color: rgb(30, 192, 70);
+}
+
+.status-payment-failed{
+    color: #fff !important;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.qr-button{
+    position: absolute;
+    right: 100px;
+    margin-top: -90px;
+    background: none;
+    border: none;
+}
